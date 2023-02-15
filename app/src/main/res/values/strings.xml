@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GD-Testing</string>
+    <string name="search">Search</string>
+    <string name="you_can_search_globally_across_all_of_github">You can search globally across all of GitHub.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commits">Commits</string>
+</resources>
